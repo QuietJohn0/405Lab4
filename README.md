@@ -12,11 +12,11 @@ This lab required us to use an ADC pin object to measure voltage as ADC values f
 __Figure 1:__ Raw RC Responce.
 
 
-![Annotated](StepResponse.png)
+![Annotated](Step.png)
 
 __Figure 2:__ Annotated RC Responce, (Tau Measured = .11s, %error = 63%).
 
-The difference was outside of the 5%-25% range for error for typical electronic components. This may also be due to a large resistance in our circut.  
+The difference was outside of the 5%-25% range for error for typical electronic components. This may be due to a small resistance in our circut. 
 
 
 ### Classes
