@@ -12,7 +12,7 @@ This lab required us to use an ADC pin object to measure voltage as ADC values f
 __Figure 1:__ Raw RC Responce.
 
 
-![Annotated](Step Response.png)
+![Annotated](StepResponse.png)
 
 __Figure 2:__ Annotated RC Responce, (Tau Measured = .11s, %error = 63%).
 
@@ -21,19 +21,19 @@ The difference was outside of the 5%-25% range for error for typical electronic 
 
 ### Classes
 
-* [main.py](https://github.com/danrmunic/405Lab3/blob/main/src/main.py)
+* [main.py](https://github.com/QuietJohn0/405Lab4/blob/main/src/main.py)
 
 Classes used (not written by us)
 
-* [taskshare.py](https://github.com/danrmunic/405Lab3/blob/main/src/task_share.py)
+* [task_share.py](https://github.com/QuietJohn0/405Lab4/blob/main/src/task_share.py)
 
 Class run by the PC
 
-* [Lab04_PC](https://github.com/danrmunic/405Lab3/blob/main/src/Lab03_PC.py)
+* [Lab04_PC](https://github.com/QuietJohn0/405Lab4/blob/main/src/Lab04_PC.py)
 
 ## Documentation
 
-* [Lab04 Documentation](https://github.com/danrmunic/405Lab3)
+* [Lab04 Documentation](https://github.com/QuietJohn0/405Lab4)
 
 ## Website Link
 
