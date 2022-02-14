@@ -16,7 +16,7 @@ __Figure 1:__ Raw RC Responce.
 
 __Figure 2:__ Annotated RC Responce, (Tau Measured = .11s, %error = 63%).
 
-The difference was outside of the 5%-25% range for error for typical electronic components. This may be due to a small resistance in our circut. 
+The difference was outside of the 5%-25% range for error for typical electronic components. This may be due to choosing a small resistance for our circut.
 
 
 ### Classes
